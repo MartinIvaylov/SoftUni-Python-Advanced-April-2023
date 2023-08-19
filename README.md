@@ -4,7 +4,7 @@ In this repository there are solutions to tasks from the programming Advanced co
 
 Online judge system - https://judge.softuni.org/ ⚖
 
-Table of Contents:
+## Table of Contents:
 
 ➡ Tuple and sets
 
@@ -24,7 +24,8 @@ Table of Contents:
 
 ➡ Exam preparation
 
-Additional resources
+## Additional resources
+
 ➡ Course page - Programming Advanced with Python - January 2023
 
 ➡ Official Python documentation
