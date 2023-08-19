@@ -4,9 +4,8 @@ In this repository there are solutions to tasks from the programming Advanced co
 
 Online judge system - https://judge.softuni.org/ ⚖
 
-image
-
 Table of Contents:
+
 ➡ Tuple and sets
 
 ➡ Multidimensional lists
