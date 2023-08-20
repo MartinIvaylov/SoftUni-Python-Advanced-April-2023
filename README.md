@@ -24,8 +24,4 @@ Online judge system - https://judge.softuni.org/ ⚖
 
 ➡ Exam preparation
 
-## Additional resources
 
-➡ Course page - Programming Advanced with Python - January 2023
-
-➡ Official Python documentation
